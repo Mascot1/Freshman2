@@ -1,4 +1,4 @@
-
+11.26
 //第一种做法  次数最多为n次
 #include<stdio.h>
 int main()
